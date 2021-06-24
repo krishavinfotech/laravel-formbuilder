@@ -49,7 +49,7 @@ This custom package takes a couple steps to install but I will try to make it as
 Edit your composer.json file manually or simply type
 
 ```bash
-composer require jazmy/jaz-form-builder
+composer require krishavinfotech/laravel-formbuilder
 ```
 
 ### Step Two:
