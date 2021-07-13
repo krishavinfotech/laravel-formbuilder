@@ -1,17 +1,8 @@
 
 # Laravel Form Builder Package
 
-Note: THIS PACKAGE MAY NOT B COMPATIBLE WITH LARAVEL 7 or 8. I am no longer maintaining this package so please use the code for reference on how to create a jquery form builder.
-
 A [Laravel](https://laravel.com) package for creating a drag-and-drop form builder using the [JQuery Form Builder](https://formbuilder.online).
 
-Demo: [http://demoform.jazmy.com/](http://demoform.jazmy.com/)
-
-*Note: Features like email, registration and file uploads are disabled in the demo*
-
-Screenshot:
-
-![alt text](http://demoform.jazmy.com/img/formbuilderdemo_screenshot.jpg "Form Builder Screenshot")
 
 The forms fields are saved as json and stored in your database. A member of your site can create, edit and delete forms. Forms belong to the users that created them and each form has a unique link that can be shared publicly.
 
